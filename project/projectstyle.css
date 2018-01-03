@@ -1,0 +1,83 @@
+#t1 {
+    color: black;
+    font-size: 35px;
+    font-weight:bold;
+    text-align: center;
+}
+
+#t2 {
+    color: black;
+    font-size: 25px;
+    font-weight:bold;
+    text-align: center;
+}
+
+#t3 {
+    color: black;
+    font-size: 20px;
+    font-weight:bold;
+    text-align: center;
+
+}
+
+td.titleL{
+	width:15%
+}
+
+td.titleR{
+	width:85%
+}
+
+td.img2L{
+    width:50%
+}
+
+td.img2R{
+    width:50%
+}
+
+td.layoutl{
+	width:10%
+}
+
+td.layoutm{
+	width:80%
+}
+
+td.layoutr{
+	width:10%
+}
+
+#part {
+    color: #008AC2;
+    font-size: 25px;
+    font-weight:bold;
+    text-align: center;
+
+}
+
+
+hr.part {
+	color: #008AC2;
+	background-color:#008AC2;
+	height: 4px;
+	position:center;
+}
+
+hr.small {
+    color: #A7A7A7;
+	background-color:#A7A7A7;
+	height: 1px;
+	position:center;
+}
+hr.small:before { 
+    display: block;
+    content: "";
+    height: 30px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+    border-width: 0 0 1px 0;
+    border-radius: 20px;
+}
+
